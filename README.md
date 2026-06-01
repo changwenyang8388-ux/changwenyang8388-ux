@@ -2,7 +2,7 @@
 
 <!-- 可选：居中头像 -->
 <p align="center">
-  <img src="你的头像链接" width="150" height="150" alt="avatar">
+  <img src="https://github.com/changwenyang8388-ux/changwenyang8388-ux/raw/main/avatar.jpg" width="150" height="150" alt="avatar">
 </p>
 
 <h1 align="center">Hi 👋, I'm cross_space</h1>
